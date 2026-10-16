@@ -2,6 +2,9 @@
 
 Sviluppatore e integratore e-commerce · automazione con agenti AI · Arezzo, disponibile da remoto
 
+**Portfolio:** [saverio-moretti-dev.github.io](https://saverio-moretti-dev.github.io) — 15 casi con problema, soluzione e numeri.
+
+
 Sviluppo e integro e-commerce, gestionali e marketplace. Dal 2024 ho portato un catalogo PrestaShop da circa
 10.000 a oltre 120.000 prodotti, con circa 20 moduli scritti da me in produzione e le integrazioni con Amazon
 (SP-API, 12 marketplace), Back Market, Refurbed e il gestionale aziendale.
