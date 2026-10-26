@@ -17,6 +17,8 @@ dell'azienda e non è qui.
   strumenti e un'app per misurare e pianificare il consumo di token (non pubblico)
 - **Plugin audio in C++**: suite di processori di dinamica in sviluppo; 20 plugin di utilità completi, 14 moduli di
   dinamica (non pubblico)
+- [reversibleimport](https://github.com/saverio-moretti-dev/reversibleimport): modulo PrestaShop 8.1, import CSV di prezzi e quantità con anteprima e ritorno indietro;
+  versione pubblica ridotta del mio import di lavoro, con test e prova su PrestaShop 8.1.7
 - [guardaroba](https://github.com/saverio-moretti-dev/guardaroba): applicazione web per gestire in due le vendite di abiti usati online
 - Musica elettronica come SEM Brana
 
